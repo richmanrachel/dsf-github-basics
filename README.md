@@ -1,3 +1,3 @@
-# dsf-github-basics
-A place to learn GitHub basics
+# RR explores GitHub beyond PGP
+
 Learning how to build my own repository. September 2024
